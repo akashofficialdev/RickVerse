@@ -18,9 +18,19 @@ RickVerse is an Android app built with Jetpack Compose, designed to explore char
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-> Add screenshots/gifs of your app here to showcase UI.
+### Character Detail Screen
+![RV1](RV1.png)
+
+### Character List
+![RV2](RV2.png)
+
+### 🔹 Lottie Animation
+![RV3](RV3.png)
+
+### 🔹 App Logo
+![RV4](RV4.png)
 
 ---
 
